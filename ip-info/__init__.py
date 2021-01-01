@@ -16,5 +16,3 @@ class ip():
         else:
             self.res = r 
             return r
-
-ip("178.162.32.11").get_data()
